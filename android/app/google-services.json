@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062969288366",
+    "project_id": "idduebung5",
+    "storage_bucket": "idduebung5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062969288366:android:a86daa02de93387162ef3f",
+        "android_client_info": {
+          "package_name": "com.example.uebung5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062969288366-24prdb7hqogrv0uql0lsjsq28mi899cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7JmE3MixebVNIlaLGA_uI3Q2fuPA9RwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062969288366-24prdb7hqogrv0uql0lsjsq28mi899cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
